@@ -1,0 +1,17 @@
+Herramientas:
+Paleta https://www.flaticon.com/blog/es/paletas-color-interfaces/
+Dorado: 200 146 64
+Logo: 145 215 184
+Iconos : https://iconos8.es/
+Login: https://www.youtube.com/watch?v=IzpnHUo6iAI
+Tama-o: 850; 620
+Letra: Sitka txt
+panel btos800; 51
+Tamaño: 11
+
+
+
+ColumHeaderBorderStlit- Cabecera
+RowDefaulSelec-Color Celda
+GridColor -Lineas
+RowHiderVisible. False-Filas

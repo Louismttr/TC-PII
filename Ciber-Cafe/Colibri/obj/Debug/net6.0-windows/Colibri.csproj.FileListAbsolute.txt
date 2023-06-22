@@ -1,0 +1,820 @@
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmLogin.resources
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\Ismael\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.fmrCUser.resources
+C:\Users\Ismael\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmLogin.resources
+C:\Users\Ismael\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\Ismael\Desktop\TC\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.fmrCUser.resources
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmLogin.resources
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\PC Crossway\Source\Repos\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.fmrCUser.resources
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmLogin.resources
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\Usuario\Source\Repos\Louismttr\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.fmrCUser.resources
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmLogin.resources
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+D:\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\PC Crossway\Desktop\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmHome.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmPayrollSystem.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.NyD.frmAddEmployee.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AddProducts.frmProducts.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmClientes.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmCompras.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmProveedores.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmVentas.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Dashboard.frmDashboard.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AddProducts.frmProducts.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Dashboard.frmDashboard.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmHome.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.NyD.frmAddEmployee.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmPayrollSystem.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmClientes.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmCompras.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmProveedores.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmVentas.resources
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\Usuario\Pictures\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AddProducts.frmProducts.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Dashboard.frmDashboard.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmHome.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.NyD.frmAddEmployee.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmPayrollSystem.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmClientes.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmCompras.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmProveedores.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmVentas.resources
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\nelio\Downloads\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AddProducts.frmProducts.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmHome.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.NyD.frmAddEmployee.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmPayrollSystem.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmClientes.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmCompras.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmProveedores.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmVentas.resources
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
+C:\Users\PC Crossway\Desktop\Dios ayudame!\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmWelcome.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\refint\Colibri.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.deps.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.runtimeconfig.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.exe
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.exe
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll.config
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.deps.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.runtimeconfig.json
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Colibri.pdb
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.dll
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\bin\Debug\net6.0-windows\CiberCafeColibriAPI.pdb
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AddProducts.frmProducts.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmLogin.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.CLogin.frmWelcome.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmHome.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmMenu.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.NyD.frmAddEmployee.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.frmPayrollSystem.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmClientes.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmCompras.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmProveedores.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.Registro_VyC.frmVentas.resources
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\Colibri.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Compuesto hoy!\TC-PII\Ciber-Cafe\Colibri\obj\Debug\net6.0-windows\ref\Colibri.dll
